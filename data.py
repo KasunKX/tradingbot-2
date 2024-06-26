@@ -38,8 +38,8 @@ class Database:
         
         c.execute('''
             INSERT INTO trades (
-                entry, exit, side, sizeFiat, sizeAsset, pnl, pnl_percent, macd, ema, macd_exit, ema_exit, entry_time, exit_time, timefram
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                entry, exit, side, sizeFiat, sizeAsset, pnl, pnl_percent, macd, ema, macd_exit, ema_exit, entry_time, exit_time, timefram, pair
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ''', (
             data["entry"],
             data["exit"],
@@ -54,7 +54,8 @@ class Database:
             data["ema_exit"],
             data["entry_time"],
             data["exit_time"],
-            data["timefram"]
+            data["timefram"],
+            data["pair"]
         ))
         
         conn.commit()
@@ -73,7 +74,7 @@ class Database:
     def checkCurrentTrade(self, pair, timeframe):
         conn = sqlite3.connect('data.db', check_same_thread=False)
         print("Checking Previous Trades...")
-        
+
         c = conn.cursor()
         c.execute("SELECT * FROM currentTradeData where pair=? and timeframe=?", (pair, timeframe))
         
