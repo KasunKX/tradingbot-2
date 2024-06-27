@@ -12,10 +12,12 @@ class Database:
         conn = sqlite3.connect('data.db', check_same_thread=False)
         self.cursor = conn.cursor()
 
+        print(trade_data)
+
         self.cursor.execute('''
             INSERT INTO currentTradeData (
-                entry, side, sizeFiat, sizeAsset, pnl, pnl_percent, macd, macd_signal, ema, entry_time
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                entry, side, sizeFiat, sizeAsset, pnl, pnl_percent, macd, ema, entry_time, timeframe, pair
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ? ,?)
         ''', (
             trade_data["entry"],
             trade_data["side"],
@@ -24,9 +26,12 @@ class Database:
             trade_data["pnl"],
             trade_data["pnl_percent"],
             trade_data["macd"],
-            trade_data["macd_signal"],
+         
             trade_data["ema"],
-            trade_data["entry_time"]
+            trade_data["entry_time"],
+            trade_data["timeframe"],
+            trade_data["pair"]
+
         ))
     
         conn.commit()
@@ -83,7 +88,7 @@ class Database:
         # Column names in the same order as the SELECT statement
         column_names = [
             "entry", "side", "sizeFiat", "sizeAsset", "pnl", "pnl_percent",
-            "macd", "macd_signal", "ema", "entry_time"
+            "macd", "macd_signal", "ema", "entry_time", "timeframe", "pair"
         ]
         
         # Convert fetched data to a list of dictionaries
