@@ -8,14 +8,14 @@ class Database:
     def __init__(self):
         pass
 
-    def updateCurrentTrade(self, trade_data):
+    def newCurrentTrade(self, trade_data):
         conn = sqlite3.connect('data.db', check_same_thread=False)
         self.cursor = conn.cursor()
 
         self.cursor.execute('''
             INSERT INTO currentTradeData (
-                entry, side, sizeFiat, sizeAsset, pnl, pnl_percent, macd, ema, entry_time, timeframe, pair
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                entry, side, sizeFiat, sizeAsset, pnl, pnl_percent, macd, ema, entry_time, timeframe, pair, tradeid
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ''', (
             trade_data["entry"],
             trade_data["side"],
@@ -28,7 +28,8 @@ class Database:
             trade_data["ema"],
             trade_data["entry_time"],
             trade_data['timeframe'],
-            trade_data["pair"]
+            trade_data["pair"],
+            trade_data["tradeid"]
         ))
     
         conn.commit()
@@ -40,8 +41,8 @@ class Database:
         
         c.execute('''
             INSERT INTO trades (
-                entry, exit, side, sizeFiat, sizeAsset, pnl, pnl_percent, macd, ema, macd_exit, ema_exit, entry_time, exit_time, timefram
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                entry, exit, side, sizeFiat, sizeAsset, pnl, pnl_percent, macd, ema, macd_exit, ema_exit, entry_time, exit_time, timefram, pair
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ''', (
             data["entry"],
             data["exit"],
@@ -56,7 +57,9 @@ class Database:
             data["ema_exit"],
             data["entry_time"],
             data["exit_time"],
-            data["timefram"]
+            data["timefram"],
+            data['pair'],
+        
         ))
         
         conn.commit()
@@ -75,16 +78,18 @@ class Database:
     def checkCurrentTrade(self, pair, timeframe):
         conn = sqlite3.connect('data.db', check_same_thread=False)
         print("Checking Previous Trades...")
+   
         
         c = conn.cursor()
         c.execute("SELECT * FROM currentTradeData where pair=? and timeframe=?", (pair, timeframe))
         
         data = c.fetchall()
+
         
         # Column names in the same order as the SELECT statement
         column_names = [
             "entry", "side", "sizeFiat", "sizeAsset", "pnl", "pnl_percent",
-            "macd",  "ema", "entry_time" ,"timeframe", "pair"
+            "macd",  "ema", "entry_time" ,"timeframe", "pair", "tradeid"
         ]
         
         # Convert fetched data to a list of dictionaries
@@ -93,17 +98,20 @@ class Database:
             trade_data = dict(zip(column_names, row))
             trade_data_list.append(trade_data)
         
+        print(trade_data_list)
+        
         conn.close()
 
         if (bool(data)):
-            
-
             print("Continuing Previous Trade...")
             return [True, trade_data_list]
         else:
             conn.close()
             print("No Previous ongoing Trades Found ! ")
             return [False, []]
+        
+data = Database()
+data.checkCurrentTrade("BTC-USD", "1h")
 
 # # Connect to SQLite database (or create it if it doesn't exist)
 

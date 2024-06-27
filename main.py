@@ -9,6 +9,7 @@ from binance.spot import Spot
 import requests
 import ccxt
 from data import Database
+import random
 
 class EMAXMACD(Indicators, Database):
 
@@ -20,6 +21,7 @@ class EMAXMACD(Indicators, Database):
 
     def __init__(self, pair, timeframe, checkingPeriodMin,client, risk_Ratio=[0.5,-0.75]):
         self.pair = pair
+        
    
         self.binPair = self.pair.replace("-", "").replace("USD", "USDT")
         self.timeFrame = timeframe # support only for 1m 3m 5m 10m 15m 1h 4h 1d 7d
@@ -40,6 +42,7 @@ class EMAXMACD(Indicators, Database):
         self.pastMacd = np.array([])
 
         self.backAddress = "http://20.106.210.106:3000"
+        self.tradeid = ''
 
 
         # entry pnl pnl_percent macd macd_signal ema
@@ -55,15 +58,14 @@ class EMAXMACD(Indicators, Database):
             "ema" : None,
             "entry_time" : None,
             "timeframe" : self.timeFrame,
-            "pair" : self.pair
+            "pair" : self.pair,
+            "tradeid" : ''
         }
 
         prev = self.checkCurrentTrade(self.pair, self.timeFrame)
 
         if (prev[0]):
             self.currentTradeData = prev[1][0]
-            print(self.currentTradeData)
-            print(self.currentTradeData["entry"])
             self.activeTrade = True
             print("Found Previous Trade")
         else: 
@@ -87,8 +89,6 @@ class EMAXMACD(Indicators, Database):
 
             self.currentTradeData["pnl"] = pnl
             self.currentTradeData["pnl_percent"] = pnl_percent
-
-            self.updateCurrentTrade(self.currentTradeData)
             
             print("----------------------------------------")
             print(self.pair)
@@ -166,6 +166,7 @@ class EMAXMACD(Indicators, Database):
         EMA = self.EMA(200)
 
         if side == 'LONG':
+            self.tradeid = "TRD-LONG-" + str(random.randint(1, 9999))
             self.currentTradeData = {
             "entry" : price, 
             "side": "LONG",
@@ -177,9 +178,11 @@ class EMAXMACD(Indicators, Database):
             "ema" : EMA,
             "entry_time" : datetime.now(),
              "timeframe" : self.timeFrame,
-            "pair" : self.pair
+            "pair" : self.pair,
+            "tradeid"  : self.tradeid
             }
         elif side == 'SHORT':
+            self.tradeid = "TRD-SHORT-" + str(random.randint(1, 9999))
             self.currentTradeData = {
             "entry" : price, 
             "side": "SHORT",
@@ -188,16 +191,17 @@ class EMAXMACD(Indicators, Database):
             "pnl" : 0,
             "pnl_percent" : 0,
             "macd" : MACD,
-            "ema" : None,
+            "ema" : EMA,
             "entry_time" : datetime.now(),
-             "timeframe" : self.timeFrame,
-            "pair" : self.pair
+            "timeframe" : self.timeFrame,
+            "pair" : self.pair,
+            "tradeid"  : self.tradeid
             }
 
         self.activeTrade = True
         self.currentTradeData["entry_time"] = self.getDateTime()
         print(f"Trade Entered : {side} at {price}")
-        self.updateCurrentTrade(self.currentTradeData)
+        self.newCurrentTrade(self.currentTradeData)
         self.calculatePNL()
         print(self.currentTradeData)
 
