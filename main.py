@@ -19,7 +19,7 @@ class EMAXMACD(Indicators, Database):
     # Enter shorts when MACD[0] > MACD[1] and MACD[0] crosses MACD[1] and becomes MACD[0] < MACD[0] also the values must be above 0
     # consider enter short if EMA200 is above the price  
 
-    def __init__(self, pair, timeframe, checkingPeriodMin,client, risk_Ratio=[0.5,-0.75]):
+    def __init__(self, pair, timeframe, checkingPeriodMin,client, risk_Ratio=[0.35,-0.75]):
         self.pair = pair
         
    
@@ -91,6 +91,7 @@ class EMAXMACD(Indicators, Database):
             self.currentTradeData["pnl_percent"] = pnl_percent
             
             print("----------------------------------------")
+            print(f'Ticker - {self.getPrice()}')
             print(self.pair)
             print(self.currentTradeData)
             print("----------------------------------------")
