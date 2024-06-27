@@ -222,7 +222,7 @@ class EMAXMACD(Indicators, Database):
         
         while True:
             
-            # try:
+            try:
                 self.saveLastUpdated()
 
                 price = self.getPrice()
@@ -270,8 +270,8 @@ class EMAXMACD(Indicators, Database):
                 
                 time.sleep(60)
             
-            # except Exception as e:
-            #     print(f"Error in {self.pair} - {self.timeFrame} \n{e}")
-            #     print("Retrying in 10 seconds...")
-            #     time.sleep(10)
+            except Exception as e:
+                print(f"Error in {self.pair} - {self.timeFrame} \n{e}")
+                print("Retrying in 10 seconds...")
+                time.sleep(10)
           
