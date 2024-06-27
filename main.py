@@ -51,7 +51,7 @@ class EMAXMACD(Indicators, Database):
             "pnl" : None,
             "pnl_percent" : None,
             "macd" : None,
-            "macd_signal" : None,
+     
             "ema" : None,
             "entry_time" : None,
             "timeframe" : self.timeFrame,
@@ -96,7 +96,7 @@ class EMAXMACD(Indicators, Database):
             print("----------------------------------------")
 
     def saveTrade(self):
-        col_names = ["entry", "exit", "side", "sizeFiat", "sizeAsset", "pnl", "pnl_percent", "macd", "ema","macd_exit", "ema_exit", "entry_time", "exit_time", "timefram"]
+        col_names = ["entry", "exit", "side", "sizeFiat", "sizeAsset", "pnl", "pnl_percent", "macd", "ema","macd_exit", "ema_exit", "entry_time", "exit_time", "timefram", "pair"]
         MACD = self.MACD()
         EMA = self.EMA(200)
 
@@ -114,7 +114,8 @@ class EMAXMACD(Indicators, Database):
             "ema_exit" : EMA,
             "entry_time" : self.currentTradeData["entry_time"],
             "exit_time" : self.getDateTime(),
-            "timefram" : self.timeFrame
+            "timefram" : self.timeFrame,
+            "pair" : self.pair
         }
 
         self.saveTradeToDatabase(data)
@@ -129,6 +130,8 @@ class EMAXMACD(Indicators, Database):
         print("----------------------------------------------")
 
     def exitTrade(self):
+        MACD = self.MACD()
+
         if self.activeTrade:
             if self.currentTradeData["pnl_percent"] > self.TP:
                 print("TP Hit !")
@@ -142,6 +145,20 @@ class EMAXMACD(Indicators, Database):
                 self.saveTrade()
                 self.activeTrade = False
                 self.clearCurrentTrade()
+            
+            elif MACD < -5 and self.currentTradeData['side'] == "LONG":
+                self.saveTrade()
+                self.activeTrade = False 
+                self.clearCurrentTrade()
+
+                self.enterTrade("SHORT")
+            
+            elif MACD > 5 and self.currentTradeData['side'] == "SHORT":
+                self.saveTrade()
+                self.activeTrade = False
+                self.clearCurrentTrade()
+
+                self.enterTrade("LONG")
 
     def enterTrade(self, side):
         price = self.getPrice()
@@ -158,7 +175,9 @@ class EMAXMACD(Indicators, Database):
             "pnl_percent" : 0,
             "macd" : MACD,
             "ema" : EMA,
-            "entry_time" : datetime.now()
+            "entry_time" : datetime.now(),
+             "timeframe" : self.timeFrame,
+            "pair" : self.pair
             }
         elif side == 'SHORT':
             self.currentTradeData = {
@@ -170,7 +189,9 @@ class EMAXMACD(Indicators, Database):
             "pnl_percent" : 0,
             "macd" : MACD,
             "ema" : None,
-            "entry_time" : datetime.now()
+            "entry_time" : datetime.now(),
+             "timeframe" : self.timeFrame,
+            "pair" : self.pair
             }
 
         self.activeTrade = True
@@ -201,7 +222,7 @@ class EMAXMACD(Indicators, Database):
         
         while True:
             
-                
+            # try:
                 self.saveLastUpdated()
 
                 price = self.getPrice()
@@ -248,5 +269,9 @@ class EMAXMACD(Indicators, Database):
                     self.exitTrade()
                 
                 time.sleep(60)
-
+            
+            # except Exception as e:
+            #     print(f"Error in {self.pair} - {self.timeFrame} \n{e}")
+            #     print("Retrying in 10 seconds...")
+            #     time.sleep(10)
           
