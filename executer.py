@@ -14,7 +14,7 @@ Secret = "VBWPOyzstF6WWxevrNeezumQFZVTxPw7Fgkk1sBj3VRwvmX3ahgSw72aB2hSBgUE"
 client = Spot(api_key=apiKey, api_secret=Secret)
 
 pairs = ["BTC-USD"]
-timeFrames = ["5m", "1h"]
+timeFrames = ["5m", "15m"]
 
 tradeObjects = []
 
@@ -26,6 +26,8 @@ for i in pairs:
         tradeObjects.append(currentObj)
 
 print("Starting Threads...")
+
+
 # Start Threads
 threads = []
 
