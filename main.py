@@ -213,7 +213,10 @@ class EMAXMACD(Indicators, Database):
             file.write(str(dt))
             data = str(dt)
 
-            # p = requests.post(self.backAddress+"/lastUpdated", json={"value" : data})
+            try:
+                p = requests.post(self.backAddress+"/lastUpdated", json={"value" : data})
+            except:
+                print("failed update")
             # 
     def getDateTime(self):
         now = datetime.now()

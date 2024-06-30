@@ -1,0 +1,8 @@
+sqlite3
+binance-connector
+yfinance
+pandas
+requests
+ccxt
+numpy
+csv
