@@ -213,8 +213,8 @@ class EMAXMACD(Indicators, Database):
             file.write(str(dt))
             data = str(dt)
 
-            p = requests.post(self.backAddress+"/lastUpdated", json={"value" : data})
-            
+            # p = requests.post(self.backAddress+"/lastUpdated", json={"value" : data})
+            # 
     def getDateTime(self):
         now = datetime.now()
 
