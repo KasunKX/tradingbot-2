@@ -110,6 +110,14 @@ class Database:
             print("No Previous ongoing Trades Found ! ")
             return [False, []]
         
+    def allTrades(self):
+        conn = sqlite3.connect('data.db', check_same_thread=False)
+        c = conn.cursor()
+
+        c.execute("SELECT * from trades")
+        data = c.fetchall()
+        return str(data)
+    
 data = Database()
 data.checkCurrentTrade("BTC-USD", "1h")
 

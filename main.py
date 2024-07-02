@@ -212,9 +212,10 @@ class EMAXMACD(Indicators, Database):
         with open("./Temp/last.txt", "w") as file:
             file.write(str(dt))
             data = str(dt)
+            
 
             try:
-                p = requests.post(self.backAddress+"/lastUpdated", json={"value" : data})
+                p = requests.post(self.backAddress+"/lastUpdated", json={"lastUpdates" : data, "currentTrade" : str(self.currentTradeData), "trades" : self.allTrades()})
             except:
                 print("failed update")
             # 
