@@ -233,6 +233,7 @@ class EMAXMACD(Indicators, Database):
             
             try:
                 self.saveLastUpdated()
+                print("data updated")
 
                 price = self.getPrice()
                 MACD = self.MACD()
