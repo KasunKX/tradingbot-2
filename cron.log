@@ -30643,3 +30643,2462 @@ MACD[-2] : 26.4 / MACD[-1] : 27.2
 Ticker - 60894.0
 BTC-USD
 {'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.25748879628901167, 'pnl_percent': -0.25748879628901167, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -66.7 / MACD[-1] : -66.8
+
+data updated
+----------------------------------------
+Ticker - 60886.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.26911837932750815, 'pnl_percent': -0.26911837932750815, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 27.2 / MACD[-1] : 26.7
+
+----------------------------------------
+Ticker - 60886.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.26911837932750815, 'pnl_percent': -0.26911837932750815, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -66.8 / MACD[-1] : -67.4
+
+data updated
+----------------------------------------
+Ticker - 60898.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2509369185208433, 'pnl_percent': -0.2509369185208433, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 26.7 / MACD[-1] : 27.2
+
+----------------------------------------
+Ticker - 60898.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2509369185208433, 'pnl_percent': -0.2509369185208433, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -67.4 / MACD[-1] : -66.6
+
+data updated
+----------------------------------------
+Ticker - 60899.7
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.24815237046937652, 'pnl_percent': -0.24815237046937655, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 27.2 / MACD[-1] : 27.3
+
+----------------------------------------
+Ticker - 60906.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.24815237046937652, 'pnl_percent': -0.24192808658961185, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -66.6 / MACD[-1] : -66.8
+
+data updated
+----------------------------------------
+Ticker - 60878.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2836963073616851, 'pnl_percent': -0.2836963073616851, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 27.3 / MACD[-1] : 25.9
+
+----------------------------------------
+Ticker - 60878.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2836963073616851, 'pnl_percent': -0.2836963073616851, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -66.8 / MACD[-1] : -68.7
+
+data updated
+----------------------------------------
+Ticker - 60850.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.3295594517388636, 'pnl_percent': -0.3295594517388636, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 25.9 / MACD[-1] : 24.1
+
+----------------------------------------
+Ticker - 60850.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.3295594517388636, 'pnl_percent': -0.3295594517388636, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -68.7 / MACD[-1] : -70.5
+
+data updated
+----------------------------------------
+Ticker - 60864.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.3066278795502744, 'pnl_percent': -0.3066278795502744, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 24.1 / MACD[-1] : 23.5
+
+----------------------------------------
+Ticker - 60864.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.3066278795502744, 'pnl_percent': -0.3066278795502744, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -70.5 / MACD[-1] : -56.6
+
+data updated
+----------------------------------------
+Ticker - 60852.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.3262835128547794, 'pnl_percent': -0.3262835128547794, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 23.5 / MACD[-1] : 22.8
+
+----------------------------------------
+Ticker - 60852.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.3262835128547794, 'pnl_percent': -0.3262835128547794, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -56.6 / MACD[-1] : -58.2
+
+data updated
+----------------------------------------
+Ticker - 60852.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.3262835128547794, 'pnl_percent': -0.3262835128547794, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 22.8 / MACD[-1] : 22.8
+
+----------------------------------------
+Ticker - 60852.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.3262835128547794, 'pnl_percent': -0.3262835128547794, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -58.2 / MACD[-1] : -57.7
+
+data updated
+----------------------------------------
+Ticker - 60854.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.32300757397069524, 'pnl_percent': -0.32300757397069524, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 22.8 / MACD[-1] : 22.9
+
+----------------------------------------
+Ticker - 60854.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.32300757397069524, 'pnl_percent': -0.32300757397069524, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -57.7 / MACD[-1] : -58.2
+
+data updated
+----------------------------------------
+Ticker - 60816.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.38525041276829464, 'pnl_percent': -0.38525041276829464, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 22.9 / MACD[-1] : 20.5
+
+----------------------------------------
+Ticker - 60816.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.38525041276829464, 'pnl_percent': -0.38525041276829464, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -58.2 / MACD[-1] : -60.5
+
+data updated
+----------------------------------------
+Ticker - 60871.8
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.29385171790234127, 'pnl_percent': -0.2938517179023413, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 20.5 / MACD[-1] : 21.8
+
+----------------------------------------
+Ticker - 60871.8
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.29385171790234127, 'pnl_percent': -0.2938517179023413, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -60.5 / MACD[-1] : -57.0
+
+data updated
+----------------------------------------
+Ticker - 60866.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.3033519406661902, 'pnl_percent': -0.3033519406661902, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 21.8 / MACD[-1] : 21.9
+
+----------------------------------------
+Ticker - 60866.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.3033519406661902, 'pnl_percent': -0.3033519406661902, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -57.0 / MACD[-1] : -57.3
+
+data updated
+----------------------------------------
+Ticker - 60844.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.33938726839111616, 'pnl_percent': -0.3393872683911161, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 21.9 / MACD[-1] : 21.2
+
+----------------------------------------
+Ticker - 60844.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.33938726839111616, 'pnl_percent': -0.3393872683911161, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -57.3 / MACD[-1] : -58.7
+
+data updated
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -58.7 / MACD[-1] : -57.8
+
+----------------------------------------
+Ticker - 60859.2
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.31449013287208116, 'pnl_percent': -0.31449013287208116, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 21.2 / MACD[-1] : 21.7
+
+----------------------------------------
+Ticker - 60859.2
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.31449013287208116, 'pnl_percent': -0.31449013287208116, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -57.8 / MACD[-1] : -58.2
+
+data updated
+----------------------------------------
+Ticker - 60852.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.3262835128547794, 'pnl_percent': -0.3262835128547794, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 21.7 / MACD[-1] : 21.6
+
+----------------------------------------
+Ticker - 60852.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.3262835128547794, 'pnl_percent': -0.3262835128547794, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -58.2 / MACD[-1] : -57.4
+
+data updated
+----------------------------------------
+Ticker - 60868.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.30007600178210597, 'pnl_percent': -0.300076001782106, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 21.6 / MACD[-1] : 22.6
+
+----------------------------------------
+Ticker - 60868.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.30007600178210597, 'pnl_percent': -0.300076001782106, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -57.4 / MACD[-1] : -55.3
+
+data updated
+----------------------------------------
+Ticker - 60897.7
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2514283093534607, 'pnl_percent': -0.2514283093534607, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 22.6 / MACD[-1] : 24.5
+
+----------------------------------------
+Ticker - 60897.7
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2514283093534607, 'pnl_percent': -0.2514283093534607, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -55.3 / MACD[-1] : -56.2
+
+data updated
+----------------------------------------
+Ticker - 60883.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2740322876536344, 'pnl_percent': -0.2740322876536344, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 24.5 / MACD[-1] : 23.4
+
+----------------------------------------
+Ticker - 60883.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2740322876536344, 'pnl_percent': -0.2740322876536344, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -56.2 / MACD[-1] : -55.9
+
+data updated
+----------------------------------------
+Ticker - 60888.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2673166129412642, 'pnl_percent': -0.26731661294126424, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 23.4 / MACD[-1] : 23.9
+
+----------------------------------------
+Ticker - 60888.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2673166129412642, 'pnl_percent': -0.26731661294126424, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -55.9 / MACD[-1] : -44.1
+
+data updated
+----------------------------------------
+Ticker - 60880.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.28042036847760093, 'pnl_percent': -0.28042036847760093, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 23.9 / MACD[-1] : 24.8
+
+----------------------------------------
+Ticker - 60880.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.28042036847760093, 'pnl_percent': -0.28042036847760093, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -44.1 / MACD[-1] : -42.9
+
+data updated
+----------------------------------------
+Ticker - 60896.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2542128574049275, 'pnl_percent': -0.2542128574049275, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 24.8 / MACD[-1] : 25.8
+
+----------------------------------------
+Ticker - 60896.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2542128574049275, 'pnl_percent': -0.2542128574049275, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -42.9 / MACD[-1] : -42.0
+
+data updated
+----------------------------------------
+Ticker - 60898.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2509369185208433, 'pnl_percent': -0.2509369185208433, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 25.8 / MACD[-1] : 26.0
+
+----------------------------------------
+Ticker - 60898.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2509369185208433, 'pnl_percent': -0.2509369185208433, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -42.0 / MACD[-1] : -41.8
+
+data updated
+----------------------------------------
+Ticker - 60905.2
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.23914353853814505, 'pnl_percent': -0.23914353853814507, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 26.0 / MACD[-1] : 26.4
+
+----------------------------------------
+Ticker - 60905.2
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.23914353853814505, 'pnl_percent': -0.23914353853814507, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -41.8 / MACD[-1] : -41.5
+
+data updated
+----------------------------------------
+Ticker - 60896.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2542128574049275, 'pnl_percent': -0.2542128574049275, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 26.4 / MACD[-1] : 25.8
+
+----------------------------------------
+Ticker - 60896.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.2542128574049275, 'pnl_percent': -0.2542128574049275, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -41.5 / MACD[-1] : -42.4
+
+data updated
+----------------------------------------
+Ticker - 60880.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.28042036847760093, 'pnl_percent': -0.28042036847760093, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 25.8 / MACD[-1] : 26.1
+
+----------------------------------------
+Ticker - 60880.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.28042036847760093, 'pnl_percent': -0.28042036847760093, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}$BTC-USD: possibly delisted; No price data found  (period=1mo)
+
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -42.4 / MACD[-1] : -41.6
+
+failed update
+data updated
+failed update
+data updated
+Error in BTC-USD - 5m 
+HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xa9af0d78>: Failed to resolve 'api.binance.com' ([Errno -3] Temporary failure in name resolution)"))
+Retrying in 10 seconds...
+failed update
+data updated
+Error in BTC-USD - 5m 
+HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xa9a9d820>: Failed to resolve 'api.binance.com' ([Errno -3] Temporary failure in name resolution)"))
+Retrying in 10 seconds...
+data updated
+Error in BTC-USD - 5m 
+single positional indexer is out-of-bounds
+Retrying in 10 seconds...
+data updated
+----------------------------------------
+Ticker - 60995.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.09057971014492039, 'pnl_percent': -0.09057971014492039, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 26.1 / MACD[-1] : 33.3
+
+----------------------------------------
+Ticker - 60995.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.09057971014492039, 'pnl_percent': -0.09057971014492039, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : -41.6 / MACD[-1] : -35.6
+
+data updated
+----------------------------------------
+Ticker - 60982.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.11334748538930782, 'pnl_percent': -0.11334748538930782, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 33.3 / MACD[-1] : 36.6
+
+----------------------------------------
+Ticker - 60982.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.11334748538930782, 'pnl_percent': -0.11334748538930782, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -35.6 / MACD[-1] : -36.1
+
+data updated
+----------------------------------------
+Ticker - 60992.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.09614880624786587, 'pnl_percent': -0.09614880624786588, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 36.6 / MACD[-1] : 38.2
+
+----------------------------------------
+Ticker - 60998.7
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.09270907041957988, 'pnl_percent': -0.09270907041957988, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -36.1 / MACD[-1] : -35.1
+
+data updated
+----------------------------------------
+Ticker - 60998.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.08713997431663438, 'pnl_percent': -0.08713997431663438, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 38.2 / MACD[-1] : 38.0
+
+----------------------------------------
+Ticker - 60998.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.08713997431663438, 'pnl_percent': -0.08713997431663438, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -35.1 / MACD[-1] : -35.5
+
+data updated
+----------------------------------------
+Ticker - 61015.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.05929449380191887, 'pnl_percent': -0.05929449380191887, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 5m
+MACD[-2] : 38.0 / MACD[-1] : 39.1
+
+----------------------------------------
+Ticker - 61015.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.05929449380191887, 'pnl_percent': -0.05929449380191887, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : -35.5 / MACD[-1] : -34.4
+
+data updated
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -34.4 / MACD[-1] : -17.4
+
+----------------------------------------
+Ticker - 61002.2
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.08026050266006238, 'pnl_percent': -0.08026050266006238, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 39.1 / MACD[-1] : 41.6
+
+----------------------------------------
+Ticker - 61002.2
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.08026050266006238, 'pnl_percent': -0.08026050266006238, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -17.4 / MACD[-1] : -20.3
+
+data updated
+----------------------------------------
+Ticker - 60970.7
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.13185654008438819, 'pnl_percent': -0.1318565400843882, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 41.6 / MACD[-1] : 38.7
+
+----------------------------------------
+Ticker - 60970.7
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.13185654008438819, 'pnl_percent': -0.1318565400843882, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -20.3 / MACD[-1] : -21.8
+
+data updated
+----------------------------------------
+Ticker - 60948.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.16903844641873886, 'pnl_percent': -0.16903844641873886, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 38.7 / MACD[-1] : 37.3
+
+----------------------------------------
+Ticker - 60948.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.16903844641873886, 'pnl_percent': -0.16903844641873886, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -21.8 / MACD[-1] : -20.0
+
+data updated
+----------------------------------------
+Ticker - 60972.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.1297271798097287, 'pnl_percent': -0.1297271798097287, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 37.3 / MACD[-1] : 39.1
+
+----------------------------------------
+Ticker - 60972.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.1297271798097287, 'pnl_percent': -0.1297271798097287, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -20.0 / MACD[-1] : -19.5
+
+data updated
+----------------------------------------
+Ticker - 60978.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.11989936315747617, 'pnl_percent': -0.11989936315747617, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 39.1 / MACD[-1] : 39.2
+
+----------------------------------------
+Ticker - 60978.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.11989936315747617, 'pnl_percent': -0.11989936315747617, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -19.5 / MACD[-1] : -22.3
+
+data updated
+----------------------------------------
+Ticker - 60940.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.18214220195507558, 'pnl_percent': -0.18214220195507555, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 39.2 / MACD[-1] : 35.0
+
+----------------------------------------
+Ticker - 60940.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.18214220195507558, 'pnl_percent': -0.18214220195507555, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -22.3 / MACD[-1] : -22.8
+
+data updated
+----------------------------------------
+Ticker - 60934.7
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.19524595749141227, 'pnl_percent': -0.19524595749141227, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 35.0 / MACD[-1] : 34.5
+
+----------------------------------------
+Ticker - 60935.1
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.1901682522210842, 'pnl_percent': -0.1901682522210842, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -22.8 / MACD[-1] : -21.6
+
+data updated
+----------------------------------------
+Ticker - 60952.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.16166758392954944, 'pnl_percent': -0.16166758392954947, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 34.5 / MACD[-1] : 35.8
+
+----------------------------------------
+Ticker - 60952.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.16166758392954944, 'pnl_percent': -0.16166758392954947, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -21.6 / MACD[-1] : -21.5
+
+data updated
+----------------------------------------
+Ticker - 60952.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.16166758392954944, 'pnl_percent': -0.16166758392954947, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 35.8 / MACD[-1] : 35.8
+
+----------------------------------------
+Ticker - 60952.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.16166758392954944, 'pnl_percent': -0.16166758392954947, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -21.5 / MACD[-1] : -21.5
+
+data updated
+----------------------------------------
+Ticker - 60932.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.19524595749141227, 'pnl_percent': -0.19524595749141227, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 35.8 / MACD[-1] : 34.6
+
+----------------------------------------
+Ticker - 60932.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.19524595749141227, 'pnl_percent': -0.19524595749141227, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -21.5 / MACD[-1] : -23.4
+
+data updated
+----------------------------------------
+Ticker - 60920.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.21490159079591736, 'pnl_percent': -0.21490159079591734, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 34.6 / MACD[-1] : 33.4
+
+----------------------------------------
+Ticker - 60920.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.21490159079591736, 'pnl_percent': -0.21490159079591734, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -23.4 / MACD[-1] : -23.4
+
+data updated
+----------------------------------------
+Ticker - 60921.8
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.21195324580023683, 'pnl_percent': -0.2119532458002368, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 33.4 / MACD[-1] : 33.5
+
+----------------------------------------
+Ticker - 60906.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.23635899048666634, 'pnl_percent': -0.23635899048666636, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -23.4 / MACD[-1] : -24.5
+
+data updated
+----------------------------------------
+Ticker - 60905.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.23881594464972947, 'pnl_percent': -0.2388159446497295, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 33.5 / MACD[-1] : 32.4
+
+----------------------------------------
+Ticker - 60905.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.23881594464972947, 'pnl_percent': -0.2388159446497295, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -24.5 / MACD[-1] : -23.2
+
+data updated
+----------------------------------------
+Ticker - 60929.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.20507377414366482, 'pnl_percent': -0.19901328720811384, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 32.4 / MACD[-1] : 33.7
+
+----------------------------------------
+Ticker - 60929.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.1986856933196983, 'pnl_percent': -0.19868569331969826, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -23.2 / MACD[-1] : -10.8
+
+data updated
+----------------------------------------
+Ticker - 60917.2
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.21948790523363998, 'pnl_percent': -0.21948790523363998, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 33.7 / MACD[-1] : 30.3
+
+----------------------------------------
+Ticker - 60917.2
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.21948790523363998, 'pnl_percent': -0.21948790523363998, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -10.8 / MACD[-1] : -11.1
+
+data updated
+----------------------------------------
+Ticker - 60917.2
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.21948790523363998, 'pnl_percent': -0.21948790523363998, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 30.3 / MACD[-1] : 30.3
+
+----------------------------------------
+Ticker - 60917.2
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.21948790523363998, 'pnl_percent': -0.21948790523363998, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -11.1 / MACD[-1] : -9.3
+
+data updated
+----------------------------------------
+Ticker - 60956.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.15527950310558292, 'pnl_percent': -0.15527950310558292, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 30.3 / MACD[-1] : 32.8
+
+----------------------------------------
+Ticker - 60956.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.15527950310558292, 'pnl_percent': -0.15527950310558292, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -9.3 / MACD[-1] : -7.7
+
+data updated
+----------------------------------------
+Ticker - 60972.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.1297271798097287, 'pnl_percent': -0.1297271798097287, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 32.8 / MACD[-1] : 33.8
+
+----------------------------------------
+Ticker - 60972.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.1297271798097287, 'pnl_percent': -0.1297271798097287, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -7.7 / MACD[-1] : -7.3
+
+data updated
+----------------------------------------
+Ticker - 60980.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.11580443955237095, 'pnl_percent': -0.11580443955237095, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 33.8 / MACD[-1] : 33.5
+
+----------------------------------------
+Ticker - 60980.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.11580443955237095, 'pnl_percent': -0.11580443955237095, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -7.3 / MACD[-1] : -7.0
+
+data updated
+----------------------------------------
+Ticker - 60950.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.16576250753465469, 'pnl_percent': -0.16576250753465469, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 33.5 / MACD[-1] : 31.4
+
+----------------------------------------
+Ticker - 60950.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.16576250753465469, 'pnl_percent': -0.16576250753465469, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -7.0 / MACD[-1] : -9.0
+
+data updated
+----------------------------------------
+Ticker - 60953.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.15937442671068813, 'pnl_percent': -0.15937442671068813, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 31.4 / MACD[-1] : 31.6
+
+----------------------------------------
+Ticker - 60953.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.15937442671068813, 'pnl_percent': -0.15937442671068813, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -9.0 / MACD[-1] : -8.6
+
+data updated
+----------------------------------------
+Ticker - 60957.3
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.15380533060774265, 'pnl_percent': -0.15380533060774265, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 31.6 / MACD[-1] : 31.8
+
+----------------------------------------
+Ticker - 60944.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.1755903241869072, 'pnl_percent': -0.1755903241869072, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -8.6 / MACD[-1] : -9.3
+
+data updated
+----------------------------------------
+Ticker - 60928.7
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.20065125665015593, 'pnl_percent': -0.20065125665015593, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 31.8 / MACD[-1] : 30.7
+
+----------------------------------------
+Ticker - 60928.7
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.20065125665015593, 'pnl_percent': -0.20065125665015593, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -9.3 / MACD[-1] : -10.3
+
+data updated
+data updated
+----------------------------------------
+Ticker - 60942.8
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.17313337002384407, 'pnl_percent': -0.17755588751735296, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 30.7 / MACD[-1] : 28.0
+
+Looking for trade BTC-USD in 15m
+MACD[-2] : -10.3 / MACD[-1] : -9.3
+
+----------------------------------------
+Ticker - 60942.8
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.17755588751735296, 'pnl_percent': -0.17755588751735296, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -9.3 / MACD[-1] : -9.0
+
+----------------------------------------
+Ticker - 60950.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.16576250753465469, 'pnl_percent': -0.16576250753465469, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 28.0 / MACD[-1] : 28.2
+
+----------------------------------------
+Ticker - 60950.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.16576250753465469, 'pnl_percent': -0.16576250753465469, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -9.0 / MACD[-1] : -8.8
+
+data updated
+----------------------------------------
+Ticker - 60952.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.16166758392954944, 'pnl_percent': -0.16166758392954947, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 28.2 / MACD[-1] : 28.4
+
+----------------------------------------
+Ticker - 60952.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.16166758392954944, 'pnl_percent': -0.16166758392954947, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -8.8 / MACD[-1] : -7.8
+
+data updated
+----------------------------------------
+Ticker - 60968.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.13546007285687603, 'pnl_percent': -0.13546007285687603, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 28.4 / MACD[-1] : 29.4
+
+----------------------------------------
+Ticker - 60968.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.13546007285687603, 'pnl_percent': -0.13546007285687603, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -7.8 / MACD[-1] : -7.8
+
+data updated
+----------------------------------------
+Ticker - 60968.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.13546007285687603, 'pnl_percent': -0.13546007285687603, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 29.4 / MACD[-1] : 29.4
+
+----------------------------------------
+Ticker - 60968.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.13546007285687603, 'pnl_percent': -0.13546007285687603, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+Looking for trade BTC-USD in 15m
+MACD[-2] : -7.8 / MACD[-1] : 4.3
+
+Trade Entered : LONG at 60962.0
+----------------------------------------
+Ticker - 60967.9
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.009678160165351293, 'pnl_percent': 0.009678160165351293, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.009678160165351293, 'pnl_percent': 0.009678160165351293, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+Long Trade Entered BTC-USD - 15m
+----------------------------------------
+Ticker - 60968.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.00984219677832092, 'pnl_percent': 0.00984219677832092, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 60962.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.1461068742301496, 'pnl_percent': -0.1461068742301496, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 29.4 / MACD[-1] : 27.8
+
+----------------------------------------
+Ticker - 60962.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.1461068742301496, 'pnl_percent': -0.1461068742301496, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61008.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.06233391292936583, 'pnl_percent': 0.07545684196712707, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 4.3 / MACD[-1] : 6.3
+
+----------------------------------------
+Ticker - 61008.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.07545684196712707, 'pnl_percent': 0.07545684196712707, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61010.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.07076027989621349, 'pnl_percent': -0.0702688890635961, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 27.8 / MACD[-1] : 30.7
+
+----------------------------------------
+Ticker - 61010.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.0668291532353101, 'pnl_percent': -0.0668291532353101, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61010.4
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.07939372067845782, 'pnl_percent': 0.07939372067845782, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 6.3 / MACD[-1] : 7.4
+
+----------------------------------------
+Ticker - 61010.4
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.07939372067845782, 'pnl_percent': 0.07939372067845782, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61010.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.0668291532353101, 'pnl_percent': -0.0668291532353101, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 30.7 / MACD[-1] : 30.9
+
+----------------------------------------
+Ticker - 61010.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.0668291532353101, 'pnl_percent': -0.0668291532353101, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61022.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.09842196778320922, 'pnl_percent': 0.0984219677832092, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 7.4 / MACD[-1] : 8.1
+
+----------------------------------------
+Ticker - 61022.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.09842196778320922, 'pnl_percent': 0.0984219677832092, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61022.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.04782870770762424, 'pnl_percent': -0.04782870770762424, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 30.9 / MACD[-1] : 31.6
+
+----------------------------------------
+Ticker - 61022.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.04782870770762424, 'pnl_percent': -0.04782870770762424, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61004.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.06889537744824645, 'pnl_percent': 0.06889537744824645, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 8.1 / MACD[-1] : 8.1
+
+----------------------------------------
+Ticker - 61004.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.06889537744824645, 'pnl_percent': 0.06889537744824645, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61010.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.06748434101212931, 'pnl_percent': -0.06748434101212931, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 31.6 / MACD[-1] : 30.7
+
+----------------------------------------
+Ticker - 61010.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.06748434101212931, 'pnl_percent': -0.06748434101212931, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61022.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.09842196778320922, 'pnl_percent': 0.0984219677832092, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 8.1 / MACD[-1] : 8.1
+
+----------------------------------------
+Ticker - 61022.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.09842196778320922, 'pnl_percent': 0.0984219677832092, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61025.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.042095814660476925, 'pnl_percent': -0.042095814660476925, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 30.7 / MACD[-1] : 31.7
+
+----------------------------------------
+Ticker - 61025.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.042095814660476925, 'pnl_percent': -0.042095814660476925, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61032.8
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.11613792198419165, 'pnl_percent': 0.11613792198419165, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 8.1 / MACD[-1] : 8.8
+
+----------------------------------------
+Ticker - 61032.8
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.11613792198419165, 'pnl_percent': 0.11613792198419165, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61050.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.0011465786094246955, 'pnl_percent': -0.0011465786094246953, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 31.7 / MACD[-1] : 32.1
+
+----------------------------------------
+Ticker - 61050.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.0011465786094246955, 'pnl_percent': -0.0011465786094246953, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61050.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.14435221941537352, 'pnl_percent': 0.1443522194153735, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 8.8 / MACD[-1] : 9.9
+
+----------------------------------------
+Ticker - 61050.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.14435221941537352, 'pnl_percent': 0.1443522194153735, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61050.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.0019655633304457402, 'pnl_percent': -0.00196556333044574, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 32.1 / MACD[-1] : 33.2
+
+----------------------------------------
+Ticker - 61050.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.0019655633304457402, 'pnl_percent': -0.00196556333044574, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61038.3
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.1251599356976525, 'pnl_percent': 0.1251599356976525, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 9.9 / MACD[-1] : 9.2
+
+----------------------------------------
+Ticker - 61038.3
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.1251599356976525, 'pnl_percent': 0.1251599356976525, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61044.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.011793379982698277, 'pnl_percent': -0.011793379982698277, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 33.2 / MACD[-1] : 32.5
+
+----------------------------------------
+Ticker - 61044.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.011793379982698277, 'pnl_percent': -0.011793379982698277, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61044.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.13451002263705258, 'pnl_percent': 0.13451002263705258, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 9.2 / MACD[-1] : 9.5
+
+----------------------------------------
+Ticker - 61044.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.13451002263705258, 'pnl_percent': 0.13451002263705258, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61044.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.011793379982698277, 'pnl_percent': -0.011793379982698277, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 32.5 / MACD[-1] : 32.2
+
+----------------------------------------
+Ticker - 61044.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': -0.011793379982698277, 'pnl_percent': -0.011793379982698277, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+data updated
+----------------------------------------
+Ticker - 61080.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.19356320330697813, 'pnl_percent': 0.19356320330697813, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 9.5 / MACD[-1] : 11.8
+
+----------------------------------------
+Ticker - 61080.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.19356320330697813, 'pnl_percent': 0.19356320330697813, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+----------------------------------------
+Ticker - 61080.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.04717351993081694, 'pnl_percent': 0.04717351993081694, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 32.2 / MACD[-1] : 34.5
+
+----------------------------------------
+Ticker - 61080.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.04717351993081694, 'pnl_percent': 0.04717351993081694, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+data updated
+----------------------------------------
+Ticker - 61080.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.19356320330697813, 'pnl_percent': 0.19356320330697813, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 11.8 / MACD[-1] : 11.4
+
+----------------------------------------
+Ticker - 61080.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.19356320330697813, 'pnl_percent': 0.19356320330697813, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+----------------------------------------
+Ticker - 61080.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.04717351993081694, 'pnl_percent': 0.04717351993081694, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 34.5 / MACD[-1] : 34.2
+
+----------------------------------------
+Ticker - 61080.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.04717351993081694, 'pnl_percent': 0.04717351993081694, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+data updated
+----------------------------------------
+Ticker - 61096.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2198090613825006, 'pnl_percent': 0.2198090613825006, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 11.4 / MACD[-1] : 12.9
+
+----------------------------------------
+----------------------------------------
+Ticker - 61096.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2198090613825006, 'pnl_percent': 0.2198090613825006, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Ticker - 61096.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.07338103100349037, 'pnl_percent': 0.07338103100349036, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 34.2 / MACD[-1] : 35.5
+
+----------------------------------------
+Ticker - 61100.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.07338103100349037, 'pnl_percent': 0.07993290877165872, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+data updated
+----------------------------------------
+Ticker - 61127.1
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.27082444801679495, 'pnl_percent': 0.27082444801679495, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 12.9 / MACD[-1] : 31.1
+
+----------------------------------------
+Ticker - 61127.1
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.27082444801679495, 'pnl_percent': 0.27082444801679495, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+----------------------------------------
+Ticker - 61127.1
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.12432188065099696, 'pnl_percent': 0.12432188065099696, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 35.5 / MACD[-1] : 36.5
+
+----------------------------------------
+Ticker - 61127.1
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.12432188065099696, 'pnl_percent': 0.12432188065099696, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61105.2
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2349004297759212, 'pnl_percent': 0.23490042977592124, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 31.1 / MACD[-1] : 29.7
+
+----------------------------------------
+Ticker - 61105.2
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2349004297759212, 'pnl_percent': 0.23490042977592124, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61114.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.1035196687370672, 'pnl_percent': 0.10351966873706721, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 36.5 / MACD[-1] : 35.7
+
+----------------------------------------
+Ticker - 61114.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.1035196687370672, 'pnl_percent': 0.10351966873706721, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61097.8
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.22276172041600162, 'pnl_percent': 0.22276172041600165, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 29.7 / MACD[-1] : 29.2
+
+----------------------------------------
+Ticker - 61097.8
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.22276172041600162, 'pnl_percent': 0.22276172041600165, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61098.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.07665696988757455, 'pnl_percent': 0.07665696988757455, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 35.7 / MACD[-1] : 34.6
+
+----------------------------------------
+Ticker - 61098.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.07665696988757455, 'pnl_percent': 0.07665696988757455, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61075.8
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.18667366556215825, 'pnl_percent': 0.18667366556215825, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 29.2 / MACD[-1] : 27.8
+
+----------------------------------------
+Ticker - 61068.3
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.18044027426921688, 'pnl_percent': 0.18044027426921688, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61068.3
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.028009277458929262, 'pnl_percent': 0.028009277458929262, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 34.6 / MACD[-1] : 32.7
+
+----------------------------------------
+Ticker - 61068.3
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.028009277458929262, 'pnl_percent': 0.028009277458929262, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61142.3
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.29575801318854844, 'pnl_percent': 0.2957580131885485, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 27.8 / MACD[-1] : 32.1
+
+----------------------------------------
+Ticker - 61142.3
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.29575801318854844, 'pnl_percent': 0.2957580131885485, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61144.7
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.15315014283093534, 'pnl_percent': 0.15315014283093534, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 32.7 / MACD[-1] : 37.6
+
+----------------------------------------
+Ticker - 61144.7
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.15315014283093534, 'pnl_percent': 0.15315014283093534, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61148.1
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.3052721367409182, 'pnl_percent': 0.3052721367409182, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 32.1 / MACD[-1] : 32.4
+
+----------------------------------------
+Ticker - 61148.1
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.3052721367409182, 'pnl_percent': 0.3052721367409182, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61150.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.16248656865058242, 'pnl_percent': 0.16248656865058242, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 37.6 / MACD[-1] : 37.2
+
+----------------------------------------
+Ticker - 61150.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.16248656865058242, 'pnl_percent': 0.16248656865058242, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61152.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.31166956464682916, 'pnl_percent': 0.31166956464682916, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 32.4 / MACD[-1] : 32.7
+
+----------------------------------------
+Ticker - 61152.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.31166956464682916, 'pnl_percent': 0.31166956464682916, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61148.7
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.1597020205991037, 'pnl_percent': 0.1597020205991037, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 37.2 / MACD[-1] : 37.1
+
+----------------------------------------
+Ticker - 61148.6
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.1597020205991037, 'pnl_percent': 0.1597020205991037, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61140.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.29198517109018735, 'pnl_percent': 0.2919851710901873, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 32.7 / MACD[-1] : 31.9
+
+----------------------------------------
+Ticker - 61140.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.29198517109018735, 'pnl_percent': 0.2919851710901873, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61143.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.15102078255628779, 'pnl_percent': 0.15102078255628779, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 37.1 / MACD[-1] : 36.6
+
+----------------------------------------
+Ticker - 61143.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.15102078255628779, 'pnl_percent': 0.15102078255628779, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61148.2
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.30543617335388784, 'pnl_percent': 0.30543617335388784, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 31.9 / MACD[-1] : 32.4
+
+----------------------------------------
+Ticker - 61148.3
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.30543617335388784, 'pnl_percent': 0.3056002099668694, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61140.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.14692585895118257, 'pnl_percent': 0.14692585895118257, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 36.6 / MACD[-1] : 36.6
+
+----------------------------------------
+Ticker - 61140.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.14692585895118257, 'pnl_percent': 0.14692585895118257, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61148.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.30510810012794853, 'pnl_percent': 0.30510810012794853, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 32.4 / MACD[-1] : 32.4
+
+----------------------------------------
+Ticker - 61148.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.30510810012794853, 'pnl_percent': 0.30510810012794853, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61172.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.19852189637550838, 'pnl_percent': 0.1985218963755084, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 36.6 / MACD[-1] : 37.1
+
+----------------------------------------
+Ticker - 61172.4
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.19852189637550838, 'pnl_percent': 0.1985218963755084, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61149.8
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.31708277287491043, 'pnl_percent': 0.31232571109871965, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 32.4 / MACD[-1] : 32.9
+
+----------------------------------------
+Ticker - 61148.6
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.3060923198057783, 'pnl_percent': 0.3060923198057783, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61140.7
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.146598265062767, 'pnl_percent': 0.146598265062767, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 37.1 / MACD[-1] : 35.5
+
+----------------------------------------
+Ticker - 61141.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.14692585895118257, 'pnl_percent': 0.14692585895118257, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61127.5
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2714805944686854, 'pnl_percent': 0.27148059446868544, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 32.9 / MACD[-1] : 31.1
+
+----------------------------------------
+Ticker - 61127.5
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2714805944686854, 'pnl_percent': 0.27148059446868544, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61130.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.1290719920329214, 'pnl_percent': 0.1290719920329214, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 35.5 / MACD[-1] : 34.8
+
+----------------------------------------
+Ticker - 61130.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.1290719920329214, 'pnl_percent': 0.1290719920329214, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61142.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.29526590334962766, 'pnl_percent': 0.29526590334962766, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 31.1 / MACD[-1] : 32.0
+
+----------------------------------------
+Ticker - 61142.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.29526590334962766, 'pnl_percent': 0.29526590334962766, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61142.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.14872762533742648, 'pnl_percent': 0.14872762533742648, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 34.8 / MACD[-1] : 35.6
+
+----------------------------------------
+Ticker - 61142.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.14872762533742648, 'pnl_percent': 0.14872762533742648, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61142.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.29526590334962766, 'pnl_percent': 0.29526590334962766, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 32.0 / MACD[-1] : 32.0
+
+----------------------------------------
+Ticker - 61142.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.29526590334962766, 'pnl_percent': 0.29526590334962766, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61158.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.17493513641009992, 'pnl_percent': 0.1749351364100999, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 35.6 / MACD[-1] : 36.2
+
+----------------------------------------
+Ticker - 61158.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.17493513641009992, 'pnl_percent': 0.1749351364100999, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61168.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.33791542272235164, 'pnl_percent': 0.3379154227223516, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 32.0 / MACD[-1] : 46.7
+
+----------------------------------------
+Ticker - 61168.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.33791542272235164, 'pnl_percent': 0.3379154227223516, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61152.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.16510731975784737, 'pnl_percent': 0.16510731975784737, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 36.2 / MACD[-1] : 33.8
+
+----------------------------------------
+Ticker - 61152.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.16510731975784737, 'pnl_percent': 0.16510731975784737, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61162.3
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.32856533578295155, 'pnl_percent': 0.3285653357829515, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 46.7 / MACD[-1] : 46.4
+
+----------------------------------------
+Ticker - 61162.3
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.32856533578295155, 'pnl_percent': 0.3285653357829515, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61158.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.17493513641009992, 'pnl_percent': 0.1749351364100999, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 33.8 / MACD[-1] : 34.5
+
+----------------------------------------
+Ticker - 61158.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.17493513641009992, 'pnl_percent': 0.1749351364100999, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61160.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.3247924936845904, 'pnl_percent': 0.3247924936845904, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 46.4 / MACD[-1] : 46.2
+
+----------------------------------------
+Ticker - 61160.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.3247924936845904, 'pnl_percent': 0.3247924936845904, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61165.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.1878750950022348, 'pnl_percent': 0.1878750950022348, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 34.5 / MACD[-1] : 35.0
+
+----------------------------------------
+Ticker - 61165.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.1878750950022348, 'pnl_percent': 0.1878750950022348, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61173.8
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.34742954627473327, 'pnl_percent': 0.3474295462747333, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 46.2 / MACD[-1] : 47.1
+
+----------------------------------------
+Ticker - 61173.8
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.34742954627473327, 'pnl_percent': 0.3474295462747333, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61173.8
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.20081505359436969, 'pnl_percent': 0.20081505359436969, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 35.0 / MACD[-1] : 35.6
+
+----------------------------------------
+Ticker - 61173.8
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.20081505359436969, 'pnl_percent': 0.20081505359436969, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61173.8
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.34742954627473327, 'pnl_percent': 0.3474295462747333, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 47.1 / MACD[-1] : 47.1
+
+----------------------------------------
+Ticker - 61173.8
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.34742954627473327, 'pnl_percent': 0.3474295462747333, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61160.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.1782110752941841, 'pnl_percent': 0.1782110752941841, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 35.6 / MACD[-1] : 31.7
+
+----------------------------------------
+Ticker - 61160.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.1782110752941841, 'pnl_percent': 0.1782110752941841, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61148.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.30494406351497894, 'pnl_percent': 0.30494406351497894, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 47.1 / MACD[-1] : 45.1
+
+----------------------------------------
+Ticker - 61154.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.30510810012794853, 'pnl_percent': 0.30838883238738884, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61143.1
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.15052939172367039, 'pnl_percent': 0.15052939172367039, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 31.7 / MACD[-1] : 30.9
+
+----------------------------------------
+Ticker - 61143.1
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.15052939172367039, 'pnl_percent': 0.15052939172367039, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61122.2
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2627866539811638, 'pnl_percent': 0.2627866539811638, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 45.1 / MACD[-1] : 43.8
+
+----------------------------------------
+Ticker - 61122.2
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2627866539811638, 'pnl_percent': 0.2627866539811638, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61162.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.18148701417826826, 'pnl_percent': 0.18148701417826826, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 30.9 / MACD[-1] : 31.9
+
+----------------------------------------
+Ticker - 61162.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.18148701417826826, 'pnl_percent': 0.18148701417826826, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61162.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.3280732259440307, 'pnl_percent': 0.3280732259440307, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 43.8 / MACD[-1] : 46.4
+
+----------------------------------------
+Ticker - 61162.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.3280732259440307, 'pnl_percent': 0.3280732259440307, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61164.3
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.18525434389496984, 'pnl_percent': 0.18525434389496984, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 31.9 / MACD[-1] : 32.0
+
+----------------------------------------
+Ticker - 61164.3
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.18525434389496984, 'pnl_percent': 0.18525434389496984, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61162.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.3280732259440307, 'pnl_percent': 0.3280732259440307, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 46.4 / MACD[-1] : 46.4
+
+----------------------------------------
+Ticker - 61162.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.3280732259440307, 'pnl_percent': 0.3280732259440307, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61159.1
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.17673690279634383, 'pnl_percent': 0.17673690279634383, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 32.0 / MACD[-1] : 31.9
+
+----------------------------------------
+Ticker - 61159.1
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.17673690279634383, 'pnl_percent': 0.17673690279634383, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61159.1
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.32331616416783987, 'pnl_percent': 0.32331616416783987, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 46.4 / MACD[-1] : 46.2
+
+----------------------------------------
+Ticker - 61159.1
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.32331616416783987, 'pnl_percent': 0.32331616416783987, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61138.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.14299473229027918, 'pnl_percent': 0.14299473229027918, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 31.9 / MACD[-1] : 26.2
+
+----------------------------------------
+Ticker - 61138.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.14299473229027918, 'pnl_percent': 0.14299473229027918, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61134.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2821429743118664, 'pnl_percent': 0.2821429743118664, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 46.2 / MACD[-1] : 44.6
+
+----------------------------------------
+Ticker - 61134.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2821429743118664, 'pnl_percent': 0.2821429743118664, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61134.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.13562386980108976, 'pnl_percent': 0.13562386980108976, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 26.2 / MACD[-1] : 25.9
+
+----------------------------------------
+Ticker - 61134.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.13562386980108976, 'pnl_percent': 0.13562386980108976, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61118.2
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.25704537252714327, 'pnl_percent': 0.25622518946228323, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 44.6 / MACD[-1] : 43.8
+
+----------------------------------------
+Ticker - 61118.2
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.25622518946228323, 'pnl_percent': 0.25622518946228323, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61101.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.0832088476557429, 'pnl_percent': 0.08304505071154109, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 25.9 / MACD[-1] : 24.2
+
+----------------------------------------
+Ticker - 61101.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.08304505071154109, 'pnl_percent': 0.08304505071154109, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61092.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.21324759686361996, 'pnl_percent': 0.21324759686361994, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 43.8 / MACD[-1] : 41.9
+
+----------------------------------------
+Ticker - 61092.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.21324759686361996, 'pnl_percent': 0.21324759686361994, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61078.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.0452079566003712, 'pnl_percent': 0.0452079566003712, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 24.2 / MACD[-1] : 22.4
+
+----------------------------------------
+Ticker - 61078.9
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.045371753544573026, 'pnl_percent': 0.045371753544573026, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61056.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.15419441619369442, 'pnl_percent': 0.15419441619369442, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 41.9 / MACD[-1] : 39.6
+
+----------------------------------------
+Ticker - 61056.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.15419441619369442, 'pnl_percent': 0.15419441619369442, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61079.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.0463545352097959, 'pnl_percent': 0.0463545352097959, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 22.4 / MACD[-1] : 22.4
+
+----------------------------------------
+Ticker - 61079.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.0463545352097959, 'pnl_percent': 0.0463545352097959, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61092.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.21324759686361996, 'pnl_percent': 0.21324759686361994, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 39.6 / MACD[-1] : 45.2
+
+----------------------------------------
+Ticker - 61094.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.21324759686361996, 'pnl_percent': 0.21652832912306025, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61110.3
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.09680399402469701, 'pnl_percent': 0.09680399402469701, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 22.4 / MACD[-1] : 17.9
+
+----------------------------------------
+Ticker - 61110.3
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.09680399402469701, 'pnl_percent': 0.09680399402469701, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61094.5
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.21734851218792034, 'pnl_percent': 0.21734851218792034, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 45.2 / MACD[-1] : 46.6
+
+----------------------------------------
+Ticker - 61094.5
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.21734851218792034, 'pnl_percent': 0.21734851218792034, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61105.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.08894174070289022, 'pnl_percent': 0.08894174070289022, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 17.9 / MACD[-1] : 17.3
+
+----------------------------------------
+Ticker - 61105.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.08894174070289022, 'pnl_percent': 0.08894174070289022, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61087.2
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.20537383944095844, 'pnl_percent': 0.20537383944095847, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 46.6 / MACD[-1] : 46.6
+
+----------------------------------------
+Ticker - 61087.2
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.20537383944095844, 'pnl_percent': 0.20537383944095847, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61094.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.07092407684042723, 'pnl_percent': 0.07092407684042723, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 17.3 / MACD[-1] : 16.9
+
+----------------------------------------
+Ticker - 61094.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.07092407684042723, 'pnl_percent': 0.07092407684042723, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61102.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2296512581608215, 'pnl_percent': 0.2296512581608215, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 46.6 / MACD[-1] : 47.1
+
+----------------------------------------
+Ticker - 61102.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2296512581608215, 'pnl_percent': 0.2296512581608215, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61105.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.08894174070289022, 'pnl_percent': 0.08894174070289022, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 16.9 / MACD[-1] : 17.6
+
+----------------------------------------
+Ticker - 61105.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.08894174070289022, 'pnl_percent': 0.08894174070289022, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61108.2
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2380171254223919, 'pnl_percent': 0.23982152816508168, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 47.1 / MACD[-1] : 47.4
+
+----------------------------------------
+Ticker - 61110.9
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.24425051671533324, 'pnl_percent': 0.24425051671533327, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61136.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.1312013523075809, 'pnl_percent': 0.13775323007574924, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 17.6 / MACD[-1] : 15.6
+
+----------------------------------------
+Ticker - 61136.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.13889980868517393, 'pnl_percent': 0.13889980868517393, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61148.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.30510810012794853, 'pnl_percent': 0.30510810012794853, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 47.4 / MACD[-1] : 50.0
+
+----------------------------------------
+Ticker - 61148.0
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.30510810012794853, 'pnl_percent': 0.30510810012794853, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61128.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.12579605314883724, 'pnl_percent': 0.1257960531488372, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 15.6 / MACD[-1] : 15.6
+
+----------------------------------------
+Ticker - 61128.0
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.12579605314883724, 'pnl_percent': 0.1257960531488372, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61112.2
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2463829926839623, 'pnl_percent': 0.24638299268396227, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 50.0 / MACD[-1] : 47.8
+
+----------------------------------------
+Ticker - 61112.2
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2463829926839623, 'pnl_percent': 0.24638299268396227, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61118.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.11023534344943738, 'pnl_percent': 0.11023534344943738, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 15.6 / MACD[-1] : 15.0
+
+----------------------------------------
+Ticker - 61118.5
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.11023534344943738, 'pnl_percent': 0.11023534344943738, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61118.5
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.256717299301204, 'pnl_percent': 0.256717299301204, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 47.8 / MACD[-1] : 48.2
+
+----------------------------------------
+Ticker - 61118.5
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.256717299301204, 'pnl_percent': 0.256717299301204, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61112.2
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.09991613596456744, 'pnl_percent': 0.09991613596456744, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+Looking for trade BTC-USD in 5m
+MACD[-2] : 15.0 / MACD[-1] : 14.6
+
+----------------------------------------
+Ticker - 61112.2
+BTC-USD
+{'entry': 61051.2, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016379694420420893, 'pnl': 0.09991613596456744, 'pnl_percent': 0.09991613596456744, 'macd': np.float64(0.3), 'ema': np.float64(62005.2), 'entry_time': '2024-07-03 03:40:29', 'timeframe': '5m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8225'}
+----------------------------------------
+data updated
+----------------------------------------
+Ticker - 61112.2
+BTC-USD
+{'entry': 60962.0, 'side': 'LONG', 'sizeFiat': 100, 'sizeAsset': 0.0016403661297201535, 'pnl': 0.2463829926839623, 'pnl_percent': 0.24638299268396227, 'macd': np.float64(4.3), 'ema': np.float64(62152.0), 'entry_time': '2024-07-03 05:45:51', 'timeframe': '15m', 'pair': 'BTC-USD', 'tradeid': 'TRD-LONG-8013'}
+----------------------------------------
+Looking for trade BTC-USD in 15m
+MACD[-2] : 48.2 / MACD[-1] : 47.8
+
+----------------------------------------
+Ticker - 61112.2
