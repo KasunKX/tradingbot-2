@@ -38,3 +38,5 @@ for i in tradeObjects:
 for i in threads:
     i.start()
     time.sleep(0.1)
+
+print("Done ! ")
