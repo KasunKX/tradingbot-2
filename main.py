@@ -41,6 +41,8 @@ class EMAXMACD(Indicators, Database):
         self.tradeSize = 100
         self.pastMacd = np.array([])
 
+        self.emaFavor = "LONG"
+
         self.backAddress = "http://20.106.210.106:3000"
         self.tradeid = ''
 
@@ -54,7 +56,6 @@ class EMAXMACD(Indicators, Database):
             "pnl" : None,
             "pnl_percent" : None,
             "macd" : None,
-     
             "ema" : None,
             "entry_time" : None,
             "timeframe" : self.timeFrame,
@@ -166,8 +167,18 @@ class EMAXMACD(Indicators, Database):
         MACD = self.MACD()
         EMA = self.EMA(200)
 
+      
+
         if side == 'LONG':
             self.tradeid = "TRD-LONG-" + str(random.randint(1, 9999))
+            
+            if self.emaFavor == "LONG":
+                self.TP = 0.5
+                self.SL = -0.4
+            else:
+                self.TP = 0.275
+                self.SL = -0.4
+
             self.currentTradeData = {
             "entry" : price, 
             "side": "LONG",
@@ -182,7 +193,14 @@ class EMAXMACD(Indicators, Database):
             "pair" : self.pair,
             "tradeid"  : self.tradeid
             }
+
         elif side == 'SHORT':
+            if self.emaFavor == "LONG":
+                self.TP = 0.275
+                self.SL = -0.4
+            else:
+                self.TP = 0.5
+                self.SL = -0.4
             self.tradeid = "TRD-SHORT-" + str(random.randint(1, 9999))
             self.currentTradeData = {
             "entry" : price, 
@@ -242,6 +260,11 @@ class EMAXMACD(Indicators, Database):
                 EMA = self.EMA(200)
 
                 self.pastMacd= np.append(self.pastMacd, MACD)
+
+                self.emaFavor = "LONG" if price > EMA else "SHORT"
+
+                print(f"In favor of {self.emaFavor}")
+
                 if len(self.pastMacd) > 50:
                     self.pastMacd = np.delete(self.pastMacd, 0)
 

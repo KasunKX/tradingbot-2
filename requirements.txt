@@ -1,5 +1,6 @@
 python-dotenv
 binance-connector
+binance-futures-connector
 yfinance
 pandas
 requests
