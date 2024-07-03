@@ -216,9 +216,11 @@ class EMAXMACD(Indicators, Database):
 
             try:
                 p = requests.post(self.backAddress+"/lastUpdated", json={"lastUpdates" : data, "currentTrade" : str(self.currentTradeData), "trades" : self.allTrades()})
+                print("data updated")
             except:
                 print("failed update")
             # 
+    
     def getDateTime(self):
         now = datetime.now()
 
@@ -233,7 +235,7 @@ class EMAXMACD(Indicators, Database):
             
             try:
                 self.saveLastUpdated()
-                print("data updated")
+              
 
                 price = self.getPrice()
                 MACD = self.MACD()
