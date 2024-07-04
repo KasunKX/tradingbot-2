@@ -30,7 +30,7 @@ class Database:
             trade_data['timeframe'],
             trade_data["pair"],
             trade_data["tradeid"],
-            trade_data["profitflow"]
+            str(trade_data["profitflow"])
         ))
     
         conn.commit()
@@ -60,7 +60,7 @@ class Database:
             data["exit_time"],
             data["timefram"],
             data['pair'],
-            data['profitflow']
+            str(data['profitflow'])
         ))
         
         conn.commit()
@@ -123,7 +123,7 @@ class Database:
         try:
             conn = sqlite3.connect('data.db', check_same_thread=False)
             cursor = conn.cursor()
-            cursor.execute("UPDATE currentTradeData set profitflow=?, pnl=?, pnl_percent=? where timeframe=?", (profitflow, pnl, pnl_percent, timeframe))
+            cursor.execute("UPDATE currentTradeData set profitflow=?, pnl=?, pnl_percent=? where timeframe=?", (str(profitflow), pnl, pnl_percent, timeframe))
 
             conn.commit()
 
