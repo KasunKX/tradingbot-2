@@ -62,7 +62,7 @@ class EMAXMACD(Indicators, Database):
             "timeframe" : self.timeFrame,
             "pair" : self.pair,
             "tradeid" : '',
-            "profitFlow" : []
+            "profitflow" : []
         }
 
         prev = self.checkCurrentTrade(self.pair, self.timeFrame)
@@ -92,7 +92,9 @@ class EMAXMACD(Indicators, Database):
 
             self.currentTradeData["pnl"] = pnl
             self.currentTradeData["pnl_percent"] = pnl_percent
-            self.currentTradeData["profitFlow"].append(pnl_percent)
+            self.currentTradeData["profitflow"].append(pnl_percent)
+
+            self.updateCurrentTrade(self.timeFrame, )
             
             print("----------------------------------------")
             print(f'Ticker - {self.getPrice()}')
@@ -194,7 +196,7 @@ class EMAXMACD(Indicators, Database):
                 "timeframe" : self.timeFrame,
                 "pair" : self.pair,
                 "tradeid"  : self.tradeid,
-                "profitFlow" : []
+                "profitflow" : []
             }
 
         elif side == 'SHORT':
@@ -218,7 +220,7 @@ class EMAXMACD(Indicators, Database):
                 "timeframe" : self.timeFrame,
                 "pair" : self.pair,
                 "tradeid"  : self.tradeid,
-                "profitFlow" : [0]
+                "profitflow" : [0]
             }
 
         self.activeTrade = True

@@ -119,6 +119,22 @@ class Database:
         data = c.fetchall()
         return str(data)
     
+    def updateCurrentTrade(self, timeframe, pnl, pnl_percent, profitflow):
+        try:
+            conn = sqlite3.connect('data.db', check_same_thread=False)
+            cursor = conn.cursor()
+            cursor.execute("UPDATE currentTradeData set profitflow=?, pnl=?, pnl_percent=? where timeframe=?", (profitflow, pnl, pnl_percent, timeframe))
+
+            conn.commit()
+
+        except sqlite3.Error as e:
+            print(f"An error occurred: {e}")
+        finally:
+            if conn:
+                conn.close()
+
+
+
 data = Database()
 data.checkCurrentTrade("BTC-USD", "1h")
 
