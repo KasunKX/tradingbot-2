@@ -10317,5 +10317,5 @@ Traceback (most recent call last):
   File "/home/debian/tradingbot-2/main.py", line 75, in __init__
     self.clearCurrentTrade(self.timeFrame)
   File "/home/debian/tradingbot-2/data.py", line 74, in clearCurrentTrade
-    cursor.execute("delete from currentTradeData where timeframe=?", (timeframe))
+    cursor.execute("delete from currentTradeData where timeframe=?", (timeframe, ))
 sqlite3.ProgrammingError: Incorrect number of bindings supplied. The current statement uses 1, and there are 2 supplied.
