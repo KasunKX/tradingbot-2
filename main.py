@@ -94,7 +94,7 @@ class EMAXMACD(Indicators, Database):
             self.currentTradeData["pnl_percent"] = pnl_percent
             self.currentTradeData["profitflow"].append(pnl_percent)
 
-            self.updateCurrentTrade(self.timeFrame, )
+            self.updateCurrentTrade(self.timeFrame, pnl,pnl_percent, self.currentTradeData["profitflow"])
             
             print("----------------------------------------")
             print(f'Ticker - {self.getPrice()}')
