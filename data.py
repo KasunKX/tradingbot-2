@@ -14,8 +14,8 @@ class Database:
 
         self.cursor.execute('''
             INSERT INTO currentTradeData (
-                entry, side, sizeFiat, sizeAsset, pnl, pnl_percent, macd, ema, entry_time, timeframe, pair, tradeid
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                entry, side, sizeFiat, sizeAsset, pnl, pnl_percent, macd, ema, entry_time, timeframe, pair, tradeid, profitflow
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ''', (
             trade_data["entry"],
             trade_data["side"],
@@ -29,7 +29,8 @@ class Database:
             trade_data["entry_time"],
             trade_data['timeframe'],
             trade_data["pair"],
-            trade_data["tradeid"]
+            trade_data["tradeid"],
+            trade_data["profitflow"]
         ))
     
         conn.commit()
@@ -41,8 +42,8 @@ class Database:
         
         c.execute('''
             INSERT INTO trades (
-                entry, exit, side, sizeFiat, sizeAsset, pnl, pnl_percent, macd, ema, macd_exit, ema_exit, entry_time, exit_time, timefram, pair
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                entry, exit, side, sizeFiat, sizeAsset, pnl, pnl_percent, macd, ema, macd_exit, ema_exit, entry_time, exit_time, timefram, pair, profitflow
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ''', (
             data["entry"],
             data["exit"],
@@ -59,7 +60,7 @@ class Database:
             data["exit_time"],
             data["timefram"],
             data['pair'],
-        
+            data['profitflow']
         ))
         
         conn.commit()
@@ -67,10 +68,10 @@ class Database:
         
         print("Trade Saved ! ")
 
-    def clearCurrentTrade(self):
+    def clearCurrentTrade(self, timeframe):
         conn = sqlite3.connect('data.db', check_same_thread=False)
         cursor = conn.cursor()
-        cursor.execute("delete from currentTradeData")
+        cursor.execute("delete from currentTradeData where timeframe=?", (timeframe))
         
         conn.commit()
         conn.close()

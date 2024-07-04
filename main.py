@@ -3,13 +3,14 @@ import numpy as np
 from indicators.indicators import Indicators
 import time
 import csv 
-from datetime import datetime
 import pandas as pd
 from binance.spot import Spot
 import requests
 import ccxt
 from data import Database
 import random
+from datetime import datetime
+import pytz
 
 class EMAXMACD(Indicators, Database):
 
@@ -60,7 +61,8 @@ class EMAXMACD(Indicators, Database):
             "entry_time" : None,
             "timeframe" : self.timeFrame,
             "pair" : self.pair,
-            "tradeid" : ''
+            "tradeid" : '',
+            "profitFlow" : []
         }
 
         prev = self.checkCurrentTrade(self.pair, self.timeFrame)
@@ -70,7 +72,7 @@ class EMAXMACD(Indicators, Database):
             self.activeTrade = True
             print("Found Previous Trade")
         else: 
-            self.clearCurrentTrade()
+            self.clearCurrentTrade(self.timeFrame)
             pass
 
     def calculatePNL(self):
@@ -90,6 +92,7 @@ class EMAXMACD(Indicators, Database):
 
             self.currentTradeData["pnl"] = pnl
             self.currentTradeData["pnl_percent"] = pnl_percent
+            self.currentTradeData["profitFlow"].append(pnl_percent)
             
             print("----------------------------------------")
             print(f'Ticker - {self.getPrice()}')
@@ -98,7 +101,7 @@ class EMAXMACD(Indicators, Database):
             print("----------------------------------------")
 
     def saveTrade(self):
-        col_names = ["entry", "exit", "side", "sizeFiat", "sizeAsset", "pnl", "pnl_percent", "macd", "ema","macd_exit", "ema_exit", "entry_time", "exit_time", "timefram", "pair"]
+        col_names = ["entry", "exit", "side", "sizeFiat", "sizeAsset", "pnl", "pnl_percent", "macd", "ema","macd_exit", "ema_exit", "entry_time", "exit_time", "timefram", "pair", "profitflow"]
         MACD = self.MACD()
         EMA = self.EMA(200)
 
@@ -117,7 +120,8 @@ class EMAXMACD(Indicators, Database):
             "entry_time" : self.currentTradeData["entry_time"],
             "exit_time" : self.getDateTime(),
             "timefram" : self.timeFrame,
-            "pair" : self.pair
+            "pair" : self.pair,
+            "profitflow" : str(self.currentTradeData['profitflow'])
         }
 
         self.saveTradeToDatabase(data)
@@ -140,25 +144,25 @@ class EMAXMACD(Indicators, Database):
                 
                 self.saveTrade()
                 self.activeTrade = False
-                self.clearCurrentTrade()
+                self.clearCurrentTrade(self.timeFrame)
             elif self.currentTradeData["pnl_percent"] < self.SL:
                 print("SL Hit !")
                 
                 self.saveTrade()
                 self.activeTrade = False
-                self.clearCurrentTrade()
+                self.clearCurrentTrade(self.timeFrame)
             
             elif MACD < -5 and self.currentTradeData['side'] == "LONG":
                 self.saveTrade()
                 self.activeTrade = False 
-                self.clearCurrentTrade()
+                self.clearCurrentTrade(self.timeFrame)
 
                 self.enterTrade("SHORT")
             
             elif MACD > 5 and self.currentTradeData['side'] == "SHORT":
                 self.saveTrade()
                 self.activeTrade = False
-                self.clearCurrentTrade()
+                self.clearCurrentTrade(self.timeFrame)
 
                 self.enterTrade("LONG")
 
@@ -167,31 +171,30 @@ class EMAXMACD(Indicators, Database):
         MACD = self.MACD()
         EMA = self.EMA(200)
 
-      
-
         if side == 'LONG':
             self.tradeid = "TRD-LONG-" + str(random.randint(1, 9999))
             
             if self.emaFavor == "LONG":
-                self.TP = 0.5
-                self.SL = -0.4
+                self.TP = 0.4
+                self.SL = -0.7
             else:
-                self.TP = 0.275
-                self.SL = -0.4
+                self.TP = 0.25
+                self.SL = -0.7
 
             self.currentTradeData = {
-            "entry" : price, 
-            "side": "LONG",
-            "sizeFiat" : self.tradeSize,
-            "sizeAsset" : self.tradeSize / price,
-            "pnl" : 0,
-            "pnl_percent" : 0,
-            "macd" : MACD,
-            "ema" : EMA,
-            "entry_time" : datetime.now(),
-             "timeframe" : self.timeFrame,
-            "pair" : self.pair,
-            "tradeid"  : self.tradeid
+                "entry" : price, 
+                "side": "LONG",
+                "sizeFiat" : self.tradeSize,
+                "sizeAsset" : self.tradeSize / price,
+                "pnl" : 0,
+                "pnl_percent" : 0,
+                "macd" : MACD,
+                "ema" : EMA,
+                "entry_time" : datetime.now(),
+                "timeframe" : self.timeFrame,
+                "pair" : self.pair,
+                "tradeid"  : self.tradeid,
+                "profitFlow" : []
             }
 
         elif side == 'SHORT':
@@ -203,18 +206,19 @@ class EMAXMACD(Indicators, Database):
                 self.SL = -0.4
             self.tradeid = "TRD-SHORT-" + str(random.randint(1, 9999))
             self.currentTradeData = {
-            "entry" : price, 
-            "side": "SHORT",
-            "sizeFiat" : self.tradeSize,
-            "sizeAsset" : self.tradeSize / price, 
-            "pnl" : 0,
-            "pnl_percent" : 0,
-            "macd" : MACD,
-            "ema" : EMA,
-            "entry_time" : datetime.now(),
-            "timeframe" : self.timeFrame,
-            "pair" : self.pair,
-            "tradeid"  : self.tradeid
+                "entry" : price, 
+                "side": "SHORT",
+                "sizeFiat" : self.tradeSize,
+                "sizeAsset" : self.tradeSize / price, 
+                "pnl" : 0,
+                "pnl_percent" : 0,
+                "macd" : MACD,
+                "ema" : EMA,
+                "entry_time" : datetime.now(),
+                "timeframe" : self.timeFrame,
+                "pair" : self.pair,
+                "tradeid"  : self.tradeid,
+                "profitFlow" : [0]
             }
 
         self.activeTrade = True
@@ -230,10 +234,16 @@ class EMAXMACD(Indicators, Database):
         with open("./Temp/last.txt", "w") as file:
             file.write(str(dt))
             data = str(dt)
+
+            zone = pytz.timezone('Asia/Colombo')
+            dt = datetime.now(zone)
+
+            print("Current time in Colombo, Sri Lanka:", dt.strftime('%Y-%m-%d %H:%M:%S'))
+
             
 
             try:
-                p = requests.post(self.backAddress+"/lastUpdated", json={"lastUpdates" : data, "currentTrade" : str(self.currentTradeData), "trades" : self.allTrades()})
+                p = requests.post(self.backAddress+"/lastUpdated", json={"lastUpdates" : str(dt), "currentTrade" : str(self.currentTradeData), "trades" : self.allTrades()})
                 print("data updated")
             except:
                 print("failed update")
@@ -253,7 +263,6 @@ class EMAXMACD(Indicators, Database):
             
             try:
                 self.saveLastUpdated()
-              
 
                 price = self.getPrice()
                 MACD = self.MACD()
