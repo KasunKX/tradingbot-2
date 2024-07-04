@@ -24,7 +24,6 @@ class Database:
             trade_data["pnl"],
             trade_data["pnl_percent"],
             trade_data["macd"],
-           
             trade_data["ema"],
             trade_data["entry_time"],
             trade_data['timeframe'],
