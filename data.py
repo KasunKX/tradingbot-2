@@ -71,7 +71,7 @@ class Database:
     def clearCurrentTrade(self, timeframe):
         conn = sqlite3.connect('data.db', check_same_thread=False)
         cursor = conn.cursor()
-        cursor.execute("delete from currentTradeData where timeframe=?", (timeframe))
+        cursor.execute("delete from currentTradeData where timeframe=?", (timeframe,))
         
         conn.commit()
         conn.close()
